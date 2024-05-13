@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">bookmark</string>
+    <string name="title">タイトル</string>
+    <string name="contents">説明</string>
+    <string name="url">URL</string>
+    <string name="tag">タグ</string>
+    <string name="parent">分類</string>
+    <string name="detail">詳細</string>
+    <string name="reg_edit">登録・編集</string>
+    <string name="reg">登録</string>
+    <string name="del">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="edit">編集</string>
+    <string name="url_btn">記事へ</string>
+    <string name="kiji">記事一覧</string>
+    <string name="category">分類一覧</string>
+    <string name="category_edit">分類登録</string>
+</resources>
